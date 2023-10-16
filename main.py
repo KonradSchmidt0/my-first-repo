@@ -1,4 +1,4 @@
-import aaa
+from folder1 import aaa
 
 
 def main():
