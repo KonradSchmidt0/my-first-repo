@@ -8,6 +8,7 @@ def main():
     # Space in between
     print("")
 
+    # Make bottom penis
     print(" # ")
     print(" # ")
     print("###")
